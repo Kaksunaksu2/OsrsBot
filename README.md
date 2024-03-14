@@ -1,0 +1,2 @@
+# OsrsBot
+Osrs botting script
